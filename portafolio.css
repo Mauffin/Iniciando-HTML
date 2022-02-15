@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 255, 255);
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+developer{
+    border: 5px solid black;
+    border-collapse: collapse;
+}
